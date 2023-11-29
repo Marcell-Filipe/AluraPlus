@@ -75,7 +75,7 @@ body {
 }
 .secundario__image{
     width: 80%;
-    margin: 0 0 0 5em;
+    margin: 0 5em;
 }
 
 .secundario__imagem{
@@ -172,7 +172,8 @@ body {
         text-align: center;
     }
     .secundario__image{
-        width: 50vw;
+        width: 80%;
+        margin: 2em 1em;
     }
     .dispositivos__lista{
         display: block;
